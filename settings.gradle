@@ -1,0 +1,3 @@
+include ':libjl'
+include ':app'
+rootProject.name = "JitPackTest"
