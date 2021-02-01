@@ -8,7 +8,7 @@ package com.jianglin.libjl;
  * @author jiang
  */
 public class JitPackTest {
-    public static void test() {
-        System.out.println("This is from libjl.");
+    public static String  test() {
+        return "This is from libjl.";
     }
 }
